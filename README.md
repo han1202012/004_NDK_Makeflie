@@ -1,6 +1,8 @@
-# 004_NDK_Makeflie
-
 @[TOC]
+
+
+**CSDN 博客地址 :** [【Android NDK 开发】NDK 交叉编译 ( Ubuntu 中交叉编译动态库 | Android Studio 中配置使用第三方动态库 )](https://hanshuliang.blog.csdn.net/article/details/104255990)
+
 
 
 <br>
@@ -335,3 +337,21 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 }
 ```
+
+
+
+
+<br>
+<br>
+
+#### V . 博客相关资源下载
+
+---
+
+<br>
+
+**CSDN 博客地址 :** [【Android NDK 开发】NDK 交叉编译 ( Ubuntu 中交叉编译动态库 | Android Studio 中配置使用第三方动态库 )](https://hanshuliang.blog.csdn.net/article/details/104255990)
+
+**博客资源下载地址 :** [https://download.csdn.net/download/han1202012/12148685](https://download.csdn.net/download/han1202012/12148685)
+
+**示例代码 GitHub 地址 :** [https://github.com/han1202012/004_NDK_Makeflie](https://github.com/han1202012/004_NDK_Makeflie)
