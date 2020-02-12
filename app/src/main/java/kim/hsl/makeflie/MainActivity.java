@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
 
     // Used to load the 'native-lib' library on application startup.
     static {
+        //此处只能加载动态库 , 不能加载静态库
         System.loadLibrary("native-lib");
     }
 
